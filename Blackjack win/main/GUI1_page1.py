@@ -10,7 +10,8 @@ window.geometry('1536x864')
 window.configure(bg='#333333')
 
 
-bg = PhotoImage(file = "D:\\Projects\\Blackjack win\\datasets\\img1.png")
+bg = PhotoImage(file = "Blackjack win/images/img1.png")
+
 
 labelimg = Label(window, image = bg)
 frame = tkinter.Frame(bg='#333333')
@@ -33,7 +34,7 @@ def back():
 
 def submit():
     c = card1.get()
-    df = pd.read_csv("D:\\Projects\\Blackjack win\\datasets\\Dataset1_clean.csv")
+    df = pd.read_csv("Blackjack win\\datasets\\Dataset1_clean.csv")
     a = df.loc[df["card"] == c]
     t1.insert(tkinter.END, a)
 

@@ -52,3 +52,13 @@ For precise probabilities in specific scenarios, you might need to use computer 
 
 # The Interface
 
+HOMEPAGE DESIGN
+![image](https://github.com/aditya09092003/BlackJack_Win_Probability/assets/99025242/129a0aa7-77b9-4866-9f58-556199cffe36)
+
+FIRST PAGE (CASE 1)
+![image](https://github.com/aditya09092003/BlackJack_Win_Probability/assets/99025242/8be93cbe-4a15-452f-8bc4-7ba5cd2fc744)
+
+SECOND PAGE (CASE 2)
+![image](https://github.com/aditya09092003/BlackJack_Win_Probability/assets/99025242/ca14ffa1-81f8-49d4-a9e5-0b67a7dce505)
+
+

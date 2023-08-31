@@ -16,7 +16,7 @@ def open_file_1():
 def open_file_2():
     window.destroy()
     import GUI2_page2
-bg = PhotoImage(file = "D:\\Projects\\Blackjack win\\datasets\\img1.png")
+bg = PhotoImage(file = "Blackjack win\\datasets\\img1.png")
 
 labelimg = Label(window, image = bg)
 frame = tkinter.Frame(bg='#333333')
